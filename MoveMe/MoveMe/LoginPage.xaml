@@ -9,7 +9,7 @@
         <Label TextColor="#77d065" Text="Email Address" Margin="5, 0, 0, 0" />
         <Entry x:Name="email" Placeholder="Please enter your email address" />
         <Label TextColor="#77d065" Text="Password" Margin="5, 0, 0, 0" />
-        <Entry x:Name="password" Placeholder="Please enter your password"/>
+        <Entry x:Name="password" Placeholder="Please enter your password" IsPassword="True"/>
         <Button Text="Login" TextColor="#77d065" Clicked="LoginButton_Clicked"/>
     </StackLayout>
 </ContentPage>

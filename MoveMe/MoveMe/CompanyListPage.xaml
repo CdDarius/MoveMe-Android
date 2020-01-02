@@ -23,7 +23,7 @@
                                    Margin="8,2,8,2"
                                    FontAttributes="Bold"
                                    FontSize="Large"/>
-                            <Label Text="{Binding city}"
+                            <Label x:Name="cityName" Text="{Binding city}"
                                    Margin="8,2,8,2"
                                    FontSize="Medium"/>
                             <Label Text="{Binding address}"

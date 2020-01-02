@@ -65,6 +65,7 @@ C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\
 C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\MoveMe.Android\bin\Debug\System.ComponentModel.Composition.pdb
 C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\MoveMe.Android\bin\Debug\System.Web.Services.pdb
 C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\MoveMe.Android\bin\Debug\Mono.Security.pdb
+C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\MoveMe.Android\bin\Debug\MoveMe.dll.mdb
 C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\MoveMe.Android\obj\Debug\81\linksrc\MoveMe.Android.pdb
 C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\MoveMe.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
 C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\MoveMe.Android\obj\Debug\81\linksrc\Mono.Android.pdb
@@ -87,7 +88,6 @@ C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\
 C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\MoveMe.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
 C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\MoveMe.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
 C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\MoveMe.Android\obj\Debug\81\linksrc\Mono.Security.pdb
-C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\MoveMe.Android\bin\Debug\MoveMe.dll.mdb
 C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\MoveMe.Android\obj\Debug\81\linksrc\MoveMe.dll.mdb
 C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\MoveMe.Android\obj\Debug\81\android\assets\MoveMe.dll.mdb
 C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\MoveMe.Android\obj\Debug\81\android\assets\FormsViewGroup.pdb
@@ -112,6 +112,4 @@ C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\
 C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\MoveMe.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\MoveMe.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\MoveMe.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
-C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\MoveMe\bin\Debug\netstandard2.0\MoveMe.dll
-C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\MoveMe.Android\bin\Debug\MoveMe.dll.mdb
 C:\Users\Criss\Desktop\Programarea dispozitivelor mobile\Projects\MoveMe\MoveMe\MoveMe.Android\obj\Debug\81\linksrc\MoveMe.dll.mdb

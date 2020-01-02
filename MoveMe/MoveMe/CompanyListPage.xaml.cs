@@ -20,7 +20,7 @@ namespace MoveMe
 		{
 			InitializeComponent ();
             companyListView.ItemsSource = GetCompanies();
-
+           
         }
 
         private ObservableCollection<Company> GetCompanies()
@@ -54,7 +54,16 @@ namespace MoveMe
 
         private void ViewCell_Tapped(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new MapPage());
+            companyListView.ItemTapped += OnTapEventAsync;
+        }
+
+        async void OnTapEventAsync(object sender, ItemTappedEventArgs e)
+        {
+            if (e.Item == null) return;
+            var selectedItem = e.Item as Company;
+            string sss = selectedItem.city;
+            await Navigation.PushAsync(new MapPage(selectedItem.city));
+
         }
     }
 }

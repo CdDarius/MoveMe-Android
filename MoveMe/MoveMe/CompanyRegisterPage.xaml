@@ -18,7 +18,7 @@
             <Label TextColor="#77d065" Text="Fee Per Km" Margin="5, 0, 0, 0" />
             <Entry x:Name="feePerKm" Placeholder="Please enter your fee per Km" />
             <Label TextColor="#77d065" Text="Password" Margin="5, 0, 0, 0" />
-            <Entry x:Name="password" Placeholder="Please enter your password"/>
+            <Entry x:Name="password" Placeholder="Please enter your password" IsPassword="True"/>
             <Button Text="Register" TextColor="#77d065" Clicked="Button_Clicked"/>
         </StackLayout>
     </ScrollView>
