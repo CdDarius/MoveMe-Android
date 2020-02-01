@@ -14,4 +14,10 @@ Visual Studio, C Sharp, Xamarin Forms, sqlLite, Google Maps Api
 
 ![alt text](https://github.com/CdDarius/MoveMe-Android/blob/master/home_page.png "Home Page")
 
+![alt text](https://github.com/CdDarius/MoveMe-Android/blob/master/Registration_page.png "Registration")
+
+![alt text](https://github.com/CdDarius/MoveMe-Android/blob/master/user_registration.png "User Registration")
+
 ![alt text](https://github.com/CdDarius/MoveMe-Android/blob/master/company_page.png "Companies Page")
+
+![alt text](https://github.com/CdDarius/MoveMe-Android/blob/master/map_page.png "Map Page")
