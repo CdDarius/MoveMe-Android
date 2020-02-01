@@ -12,3 +12,4 @@ Android
 Tehnologii folosite:
 Visual Studio, C Sharp, Xamarin Forms, sqlLite, Google Maps Api
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
