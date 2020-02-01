@@ -12,4 +12,6 @@ Android
 Tehnologii folosite:
 Visual Studio, C Sharp, Xamarin Forms, sqlLite, Google Maps Api
 
-![alt text](https://github.com/CdDarius/MoveMe-Android/blob/master/company_page.png "Home Page")
+![alt text](https://github.com/CdDarius/MoveMe-Android/blob/master/home_page.png "Home Page")
+
+![alt text](https://github.com/CdDarius/MoveMe-Android/blob/master/company_page.png "Companies Page")
